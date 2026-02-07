@@ -1,0 +1,29 @@
+ABOUT MEESHO
+Meesho is an Indian e-commerce platform where customers can buy products from various sellers.
+
+PAYMENT OPTIONS
+- Meesho supports prepaid payments such as UPI, Debit Card, Credit Card, Net Banking.
+- Cash on Delivery (COD) is available on selected products depending on seller and delivery location.
+- Meesho currently does NOT provide Pay Later or EMI options.
+
+ORDER & DELIVERY
+- Orders are usually delivered within 5–10 business days.
+- Delivery time may vary depending on seller, courier partner, and customer location.
+- Delays may occur due to logistics or seller-related issues.
+
+RETURNS & REFUNDS
+- Most products are eligible for return within 7 days of delivery.
+- Return eligibility depends on product category and seller policy.
+- Refunds are processed after successful pickup and quality check.
+- Refunds are credited to the original payment method.
+
+ORDER ISSUES
+- If an order is delayed, customers are advised to wait for the expected delivery date.
+- If an order is not delivered, customers can contact support for assistance.
+- If a product is damaged or incorrect, customers can request a return or replacement.
+
+GENERAL SUPPORT BEHAVIOR
+- Always respond politely and clearly.
+- Explain policies in simple language.
+- If exact information is unavailable, say so politely and guide the user.
+
